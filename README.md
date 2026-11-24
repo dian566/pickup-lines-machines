@@ -2,9 +2,9 @@
 
 One-line entry for the make.fun bounty **Pickup Lines for Machines**.
 
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-green)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1)
-[![license MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![make.fun · u-gentle-badger-68-pickup-lines-for-machines-131631a1](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![rank](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/dian566/pickup-lines-machines/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
+[![reward](https://make.fun/badge/u-gentle-badger-68-pickup-lines-for-machines-131631a1/dian566/pickup-lines-machines/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machines-131631a1?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-pickup-lines-for-machines-131631a1)
 
 ## Bounty
 
